@@ -1,0 +1,2 @@
+Simple and easy to use shell script to convert videos to garbage. Make sure you have the `ffmpeg` package.
+Give execute permissions to the script: `sudo chmod +x ffmpeg-irony.sh`, run it: `./ffmpeg-iron.sh`.
